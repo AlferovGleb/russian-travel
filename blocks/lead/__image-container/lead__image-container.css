@@ -1,7 +1,5 @@
 .lead__image-container {
-  width: 100%;
   align-self: center;
   display: flex;
   flex-direction: column;
-  position: relative;
 }
