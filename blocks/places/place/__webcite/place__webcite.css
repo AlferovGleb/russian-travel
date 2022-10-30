@@ -1,3 +1,5 @@
 .place__webcite {
-  
+  grid-area: webcite;
+  max-width: 456px;
+  align-self: end;
 }

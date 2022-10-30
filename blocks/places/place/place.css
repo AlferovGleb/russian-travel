@@ -1,4 +1,7 @@
 .place {
   display: grid;
-  
+  gap: 48px 40px;
+  grid-template-areas: 
+  "title webcite"
+  "image text";
 }

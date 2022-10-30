@@ -4,4 +4,5 @@
   grid-template-columns: repeat(4, 284px);
   grid-template-rows: auto;
   max-width: 1184px;
+  margin: 0;
 }
