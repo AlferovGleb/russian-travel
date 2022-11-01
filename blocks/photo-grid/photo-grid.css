@@ -6,3 +6,12 @@
   max-width: 1184px;
   margin: 0;
 }
+
+@media screen and (max-width: 568px) {
+  .photo-grid {
+    max-width: 320px;
+    margin: 0 16px;
+    grid-template-columns: 288px;
+    gap: 12px;
+  }
+}
