@@ -4,3 +4,10 @@
   max-width: 984px;
   margin: 0 auto;
 }
+
+@media screen and (max-width: 1124px) {
+  .places {
+    margin: 0 48px;
+    max-width: 928px;
+  }
+}

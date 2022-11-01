@@ -5,3 +5,9 @@
   "title webcite"
   "image text";
 }
+
+@media screen and (max-width: 1124px) {
+  .place {
+    grid-column-gap: 32px;
+  }
+}

@@ -2,3 +2,9 @@
   grid-area: text;
   max-width: 484px;
 }
+
+@media screen and (max-width:1124px) {
+  .place__text {
+    max-width: 456px;
+  }
+}
