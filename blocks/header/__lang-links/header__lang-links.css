@@ -2,6 +2,13 @@
   display: flex;
   list-style-type: none;
   padding: 0;
-  margin: 0 0 6px;
+  margin: 18px 0 6px;
   align-self: center;
+  margin-bottom: 6px;
+}
+
+@media screen and (max-width: 568px) {
+  .header__lang-links {
+    margin: 14px 0 8px;
+  }
 }
