@@ -6,7 +6,7 @@
   align-self: center;
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 758px) {
   .footer__copyright {
     line-height: 14px;
     align-self: flex-start;

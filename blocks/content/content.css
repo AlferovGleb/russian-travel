@@ -1,6 +1,8 @@
 .content {
   display: grid;
   gap: 92px;
+  width: 100%;
+  grid-template-columns: 100%;
 }
 
 @media screen and (max-width: 984px) {
@@ -9,7 +11,7 @@
   }
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 758px) {
   .content {
     gap: 64px;
   }

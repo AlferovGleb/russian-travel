@@ -7,13 +7,13 @@
   max-width: 560px;
 }
 
-@media screen and (max-width: 1124px) {
+@media screen and (max-width: 1279px) {
   .cover__title {
     max-width: 560px;
   }
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 758px) {
   .cover__title {
     font-size: 32px;
     line-height: 35px;
